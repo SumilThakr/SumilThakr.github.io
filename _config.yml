@@ -6,7 +6,7 @@ title:               Sumil Thakrar
 tagline:             PhD student at the University of Minnesota
 url:                 http://sumil.me
 paginate:            1
-baseurl:             "/blog/"
+baseurl:             "/blog"
 
 # Assets
 #
