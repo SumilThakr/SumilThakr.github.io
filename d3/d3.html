@@ -77,8 +77,8 @@ g.append("text")
 
 	g.call(d3.axisBottom(x)
 	    .tickSize(13)
-	    .tickFormat(function(x, i) { return i ? x : x + " $/t"; })
-	    .tickValues([10,20,30,40,50,60,70,80,90,100,110,120,130,140,150]))
+	    .tickFormat(function(x, i) { return i ? x : x + " $/Mg"; })
+	    .tickValues([10,20,30,40,50,60,70,80,90,100,110,120,130,140,150+]))
 	  .select(".domain")
 	    .remove();
 ReDraw(yld, nrate, ferttyp, pollutant)
@@ -2274,13 +2274,13 @@ var text= svg.append("text")
 								.attr("y",100)
 								.attr("fill","black")
 								.attr("font-size",17)
-								.text("The social cost of growing switchgrass in general")
+								.text("The social cost of growing switchgrass in general will")
 								var text= svg.append("text")
 																.attr("x",1000)
 																.attr("y",120)
 																.attr("fill","black")
 																.attr("font-size",17)
-																.text("depends on how and where switchgrass will be grown.")
+																.text("depend on how and where switchgrass will be grown.")
 //								 From the buttons below, choose the scenario for growing switchgrass that you want to \nconsider. The map will then show the monetized \nair quality impacts for growing switchgrass \nin different counties.
 var text= svg.append("text")
 								.attr("x",1000)
@@ -2305,28 +2305,28 @@ var text= svg.append("text")
 
 				            var text= svg.append("text")
 				                            .attr("x",1000)
-				                            .attr("y",400)
+				                            .attr("y",300)
 				                            .attr("fill","black")
 				                            .attr("font-size",17)
 				                            .text("Yield scenario (t/ha)")
 
 var text2= svg.append("text")
 								.attr("x",1000)
-								.attr("y",450)
+								.attr("y",350)
 								.attr("fill","black")
 								.attr("font-size",17)
 								.text("N application (kg/ha)")
 
 var text2= svg.append("text")
 								.attr("x",1000)
-								.attr("y",500)
+								.attr("y",400)
 								.attr("fill","black")
 								.attr("font-size",17)
 								.text("Nitrogen type")
 
 var text2= svg.append("text")
 								.attr("x",1000)
-								.attr("y",550)
+								.attr("y",450)
 								.attr("fill","black")
 								.attr("font-size",17)
 								.text("Pollutant")
@@ -2373,7 +2373,7 @@ var text2= svg.append("text")
 																            var bHeight= 25; //button height
 																            var bSpace= 10; //space between buttons
 																            var x0= 1020; //x offset
-																            var y0= 410; //y offset
+																            var y0= 310; //y offset
 
 																            //adding a rect to each toggle button group
 																            //rx and ry give the rect rounded corner
@@ -2455,7 +2455,7 @@ var text2= svg.append("text")
 																            var bHeight= 25; //button height
 																            var bSpace= 10; //space between buttons
 																            var x0= 1020; //x offset
-																            var y0= 460; //y offset
+																            var y0= 360; //y offset
 
 																            //adding a rect to each toggle button group
 																            //rx and ry give the rect rounded corner
@@ -2535,7 +2535,7 @@ var text2= svg.append("text")
 																            var bHeight= 25; //button height
 																            var bSpace= 10; //space between buttons
 																            var x0= 1020; //x offset
-																            var y0= 510; //y offset
+																            var y0= 410; //y offset
 
 																            //adding a rect to each toggle button group
 																            //rx and ry give the rect rounded corner
@@ -2616,7 +2616,7 @@ var text2= svg.append("text")
 																            var bHeight= 25; //button height
 																            var bSpace= 10; //space between buttons
 																            var x0= 1020; //x offset
-																            var y0= 560; //y offset
+																            var y0= 460; //y offset
 
 																            //adding a rect to each toggle button group
 																            //rx and ry give the rect rounded corner
