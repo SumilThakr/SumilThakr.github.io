@@ -85,48 +85,48 @@ ReDraw(yld, nrate, ferttyp, pollutant)
 // This is the function that will be passed through all of the updates.
 function ReDraw(yld, nrate, ferttyp, pollutant) {
 // Intro
-  if (yld == 9999 || nrate == 9999 || pollutant == 9999 || ferttyp == 9999){
-        d3.queue()
-            .defer(d3.json, "https://d3js.org/us-10m.v1.json")
-            .defer(d3.tsv, "intro.tsv", function(d) { impacts.set(d.id, +d.intro); })
-            .await(ready);
+//  if (yld == 9999 || nrate == 9999 || pollutant == 9999 || ferttyp == 9999){
+//        d3.queue()
+//            .defer(d3.json, "https://d3js.org/us-10m.v1.json")
+//            .defer(d3.tsv, "intro.tsv", function(d) { impacts.set(d.id, +d.intro); })
+//            .await(ready);
 
-            function ready(error, us) {
-              if (error) throw error;
+//            function ready(error, us) {
+//              if (error) throw error;
 
-                svg.append("g")
-                    .attr("class", "counties")
-                  .selectAll("path")
-                  .data(topojson.feature(us, us.objects.counties).features)
-                  .enter().append("path")
-                    .attr("fill", function(d) { return color(d.intro = impacts.get(d.id)); })
-                    .attr("d", path)
-                  .append("title")
-                    .text(function(d) { return d.intro+ " $/t"; });
+//                svg.append("g")
+//                    .attr("class", "counties")
+//                  .selectAll("path")
+//                  .data(topojson.feature(us, us.objects.counties).features)
+//                  .enter().append("path")
+//                    .attr("fill", function(d) { return color(d.intro = impacts.get(d.id)); })
+//                    .attr("d", path)
+//                  .append("title")
+//                    .text(function(d) { return d.intro+ " $/t"; });
+//
+//                svg.append("path")
+//                    .datum(topojson.mesh(us, us.objects.states, function(a, b) { return a !== b; }))
+//                    .attr("class", "states")
+//                    .attr("d", path);
+//              }
 
-                svg.append("path")
-                    .datum(topojson.mesh(us, us.objects.states, function(a, b) { return a !== b; }))
-                    .attr("class", "states")
-                    .attr("d", path);
-              }
 
+//          d3.json("https://d3js.org/us-10m.v1.json", function(error, us) {
+//            if (error) throw error;
 
-          d3.json("https://d3js.org/us-10m.v1.json", function(error, us) {
-            if (error) throw error;
-
-            svg.append("path")
-                .attr("stroke", "#aaa")
-                .attr("stroke-width", 0.5)
-                .attr("d", path(topojson.mesh(us, us.objects.counties, function(a, b) { return a !== b && (a.id / 1000 | 0) === (b.id / 1000 | 0); })));
-
-            svg.append("path")
-                .attr("stroke-width", 0.5)
-                .attr("d", path(topojson.mesh(us, us.objects.states, function(a, b) { return a !== b; })));
-
-            svg.append("path")
-                .attr("d", path(topojson.feature(us, us.objects.nation)));
-          });
-  }
+//            svg.append("path")
+//                .attr("stroke", "#aaa")
+//                .attr("stroke-width", 0.5)
+//                .attr("d", path(topojson.mesh(us, us.objects.counties, function(a, b) { return a !== b && (a.id / 1000 | 0) === (b.id / 1000 | 0); })));
+//
+//            svg.append("path")
+//                .attr("stroke-width", 0.5)
+//                .attr("d", path(topojson.mesh(us, us.objects.states, function(a, b) { return a !== b; })));
+//
+//            svg.append("path")
+//                .attr("d", path(topojson.feature(us, us.objects.nation)));
+//          });
+//  }
 // Yield 9, n rate 50,
   if (yld == 9 && nrate == 50 && pollutant == 0 && ferttyp == 0){
 
