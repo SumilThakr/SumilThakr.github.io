@@ -46,7 +46,7 @@
     			.range(d3.quantize(d3.interpolateRgb("white","red"),151))
 //					.interpolate(d3.interpolateRgb);
 				var yld = 9999
-				var nrate = 150
+				var nrate = 9999
 				var ferttyp = 0
 				var pollutant = 0
 				var g = svg.append("g")
@@ -2210,15 +2210,15 @@ function ReDraw(yld, nrate, ferttyp, pollutant) {
 				function updatenrate(f,i) {
 					if (i ==	0) {
 						nrate = 50;
-ReDraw(yld, nrate, ferttyp, pollutant)
+						ReDraw(yld, nrate, ferttyp, pollutant)
 					}
 				else if (i == 1) {
 					nrate = 100
-ReDraw(yld, nrate, ferttyp, pollutant)
+					ReDraw(yld, nrate, ferttyp, pollutant)
 				}
 				else if (i == 2) {
 					nrate = 150
-ReDraw(yld, nrate, ferttyp, pollutant)
+					ReDraw(yld, nrate, ferttyp, pollutant)
 				}
 				else {
 					nrate = 9999
@@ -2258,41 +2258,34 @@ else {
 function updatepollt(f,i) {
 	if (i ==	0) {
 		pollutant = 0;
-ReDraw(yld, nrate, ferttyp, pollutant)
+		ReDraw(yld, nrate, ferttyp, pollutant)
 	}
-else if (i == 1) {
-	pollutant = 1;
-ReDraw(yld, nrate, ferttyp, pollutant)
-}
-
-else if (i == 2) {
-	pollutant = 2;
-ReDraw(yld, nrate, ferttyp, pollutant)
-}
-else if (i == 3) {
-	pollutant = 3;
-ReDraw(yld, nrate, ferttyp, pollutant)
-}
-
-else if (i == 4) {
-	pollutant = 4;
-ReDraw(yld, nrate, ferttyp, pollutant)
-}
-
-else if (i == 5) {
-	pollutant = 5;
-ReDraw(yld, nrate, ferttyp, pollutant)
-}
-
-else {
-	pollutant = 9999;
-}
-
+	else if (i == 1) {
+		pollutant = 1;
+		ReDraw(yld, nrate, ferttyp, pollutant)
+	}
+	else if (i == 2) {
+		pollutant = 2;
+		ReDraw(yld, nrate, ferttyp, pollutant)
+	}
+	else if (i == 3) {
+		pollutant = 3;
+		ReDraw(yld, nrate, ferttyp, pollutant)
+	}
+	else if (i == 4) {
+		pollutant = 4;
+		ReDraw(yld, nrate, ferttyp, pollutant)
+	}
+	else if (i == 5) {
+		pollutant = 5;
+		ReDraw(yld, nrate, ferttyp, pollutant)
+	}
+	else {
+		pollutant = 9999;
+	}
 }
 
 // End new function for pollt buttons
-
-
 
 // New function for ferttyp button
 
@@ -2300,18 +2293,15 @@ else {
 function updatefertype(f,i) {
 	if (i ==	0) {
 		ferttyp = 0
-ReDraw(yld, nrate, ferttyp, pollutant)
+		ReDraw(yld, nrate, ferttyp, pollutant)
 	}
-
-else if (i == 1) {
+	else if (i == 1) {
 	ferttyp = 1
-ReDraw(yld, nrate, ferttyp, pollutant)
-}
-
-else {
+	ReDraw(yld, nrate, ferttyp, pollutant)
+	}
+	else {
 	ferttyp = 9999
-}
-
+	}
 }
 
 // End new function for ferttyp buttons
@@ -2589,7 +2579,7 @@ var text2= svg.append("text")
 																                                    .style("cursor","pointer")
 																                                    .on("click",function(f,i) {
 																                                        updateButtonColors(d3.select(this), d3.select(this.parentNode))
-																																				updateyld(f,i)
+																																				updatefertype(f,i)
 																                                    })
 
 																                                    .on("mouseover", function() {
