@@ -2,19 +2,11 @@
 permalink:           pretty
 
 # Setup
-<<<<<<< HEAD
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://sumil.me
-baseurl:          /
-=======
 title:               Sumil Thakrar
 tagline:             Environmental Scientist
 url:                 http://sumil.me
 paginate:            1
 baseurl:             ""
->>>>>>> parent of e6194f1... Change to Hyde
 
 # Assets
 #
