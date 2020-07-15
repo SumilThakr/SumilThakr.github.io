@@ -38,5 +38,5 @@ github:
 
 # Gems
 gems:
-  - jekyll-paginate
+#  - jekyll-paginate
   - jekyll-gist
