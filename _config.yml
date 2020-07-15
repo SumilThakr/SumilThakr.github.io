@@ -3,7 +3,7 @@ permalink:           pretty
 
 # Setup
 title:               Sumil Thakrar
-tagline:             Environmental Scientist
+tagline:             Post-Doctoral Associate, University of Minnesota
 url:                 http://sumil.me
 paginate:            5
 baseurl:             ""
@@ -38,5 +38,4 @@ github:
 
 # Gems
 gems:
-  - jekyll-paginate
   - jekyll-gist
