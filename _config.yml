@@ -1,12 +1,13 @@
 # Permalinks
 permalink:           pretty
 
+
 # Setup
 title:               Sumil Thakrar
 tagline:             Environmental Scientist: air, food, and land
 url:                 http://sumil.me
 paginate:            5
-baseurl:             ""
+baseurl:             /
 
 # Assets
 #
