@@ -39,3 +39,4 @@ github:
 # Gems
 gems:
   - jekyll-gist
+  - jekyll-paginate
