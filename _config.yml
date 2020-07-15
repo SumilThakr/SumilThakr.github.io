@@ -5,7 +5,7 @@ permalink:           pretty
 title:               Sumil Thakrar
 tagline:             Environmental Scientist
 url:                 http://sumil.me
-paginate:            1
+paginate:            5
 baseurl:             ""
 
 # Assets
@@ -38,5 +38,5 @@ github:
 
 # Gems
 gems:
-#  - jekyll-paginate
+  - jekyll-paginate
   - jekyll-gist
