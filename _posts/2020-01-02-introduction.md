@@ -1,0 +1,13 @@
+---
+layout: page
+title: Academic Bio
+---
+Currently, I am a post-doctoral associate at the University of
+Minnesota, in the Depts. of Bioproducts and Biosystems Engineering and
+Applied Economics, advised by Stephen Polasky and Jason Hill.
+
+I received my Ph.D. in Bioproducts and Biosystems Engineering from the
+University of Minnesota (2016-2020). Previously, I received my
+Undergraduate/Masters in Physics and Philosophy from the University of
+Oxford (Balliol).
+-----
