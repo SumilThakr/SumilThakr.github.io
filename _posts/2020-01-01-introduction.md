@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Co-Authored Publications
 ---
 * To my knowledge, the first study that estimates the air quality-driven health impacts of an agricultural commodity under different management practices, showing farmers can reduce human health impacts by choice of fertilizer and growing location.
