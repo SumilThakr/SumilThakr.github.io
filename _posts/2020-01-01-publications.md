@@ -9,7 +9,7 @@ title: Co-Authored Publications
 * **Air quality impacts of United States corn production (2019).** Life cycle corn production in the United States is associated with 4,300 deaths each year from changes in air quality alone.
  [Paper](https://depts.washington.edu/airqual/Marshall_105.pdf "Corn paper"),               [Media](https://www.altmetric.com/details/58270873/news "Corn media")
 
-* **Racial inequity and air pollution (2019).** Non-Hispanic white Americans, on average, induce more pollution exposure from their consumption than they themselves are exposed to.
+* **Racial inequity and air pollution (2019).** Non-Hispanic white Americans, on average, induce more pollution exposure from their consumption than they are, on average, exposed to. The opposite is true for Hispanic and black Americans.
  [Paper](https://www.pnas.org/content/116/13/6001.short "Racial justice paper"),               [Media](https://www.altmetric.com/details/56853428/news "Racial justice media")
 
 * **Air quality impacts of every human-caused US emissions source (2020)**. This study breaks down the 100,000 deaths each year from human-caused air pollution in the US, attributing them to every single emissions source. The deaths are not just from fossil fuels, not just from tailpipes and smokestacks, not just from regulated pollutants.
