@@ -16,6 +16,9 @@ sass:
   sass_dir:          _sass
   style:            :compressed
 
+# Google Analytics
+google_analytics: G-GW8CQGDNXE
+
 # About/contact
 author:
   name:              Sumil Thakrar
