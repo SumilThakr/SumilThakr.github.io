@@ -4,7 +4,7 @@ title: Co-Authored Publications
 ---
 
 * **Air quality impacts of switchgrass production (2018).** To my knowledge, the first study to quantify how farmer decisions such as where to grow crops and how to fertilize them impacts human health through changes in air pollution.
-[Paper](https://www.sciencedirect.com/science/article/pii/S0961953417303471 "Switchgrass paper"),              [Data](https://sumil.me/sg/map.html "Switchgrass data"),               [Media](https://www.altmetric.com/details/29593966/news)
+[Paper](https://www.sciencedirect.com/science/article/pii/S0961953417303471 "Switchgrass paper"),              [Data](http://sumil.me/sg/map.html "Switchgrass data"),               [Media](https://www.altmetric.com/details/29593966/news)
 
 * **Air quality impacts of United States corn production (2019).** Life cycle corn production in the United States is associated with 4,300 deaths each year from changes in air quality alone.
  [Paper](https://depts.washington.edu/airqual/Marshall_105.pdf "Corn paper"),               [Media](https://www.altmetric.com/details/58270873/news "Corn media")
