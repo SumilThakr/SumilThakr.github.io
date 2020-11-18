@@ -5,9 +5,10 @@ permalink:           pretty
 # Setup
 title:               Sumil Thakrar
 tagline:             Environmental Scientist
-url:                 http://sumil.me
-paginate:            5
+url:                 https://sumil.me
+#paginate:            5
 baseurl:             ""
+permalink:          /:title.html
 
 # Assets
 #
@@ -22,8 +23,7 @@ google_analytics: G-GW8CQGDNXE
 # About/contact
 author:
   name:              Sumil Thakrar
-  url:               https://twitter.com/SumilThakrarrrrr
-  email:             sum-thak@gmail.com
+  url:               https://www.wikidata.org/wiki/Q92282874
 
 # Custom vars
 version:             2.0.0
