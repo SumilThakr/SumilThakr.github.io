@@ -6,7 +6,7 @@ permalink:           pretty
 title:               Sumil Thakrar
 tagline:             Environmental Scientist
 url:                 https://sumil.me
-#paginate:            5
+paginate:            5
 baseurl:             ""
 permalink:          /:title.html
 
