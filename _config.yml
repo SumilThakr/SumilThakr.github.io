@@ -1,5 +1,5 @@
 # Permalinks
-permalink:           pretty
+permalink:           :title:output_ext
 
 
 # Setup
@@ -8,7 +8,6 @@ tagline:             Environmental Scientist
 url:                 https://sumil.me
 paginate:            5
 baseurl:             ""
-permalink:          /:title.html
 
 # Assets
 #
