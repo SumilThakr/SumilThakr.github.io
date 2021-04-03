@@ -3,7 +3,7 @@ layout: page
 title: Co-Authored Publications
 ---
 
-* **Air quality impacts of switchgrass production (2018).** To my knowledge, the first study to quantify how farmer decisions such as where to grow crops and how to fertilize them impacts human health through changes in air pollution.
+* **Air quality impacts of switchgrass production (2018).** To my knowledge, the first study to quantify how farmer decisions such as where to grow crops and how to fertilize them impact human health through changes in air pollution.
 [Paper](https://www.sciencedirect.com/science/article/pii/S0961953417303471 "Switchgrass paper"),              [Data](http://sumil.me/sg/map.html "Switchgrass data"),               [Media](https://www.altmetric.com/details/29593966/news)
 
 * **Air quality impacts of United States corn production (2019).** Life cycle corn production in the United States is associated with 4,300 deaths each year from changes in air quality alone.
@@ -20,3 +20,6 @@ title: Co-Authored Publications
 
 * **Climate impacts of the global food system (2020)**. Changes in the food system are necessary to meet our climate goals---*even if* fossil fuel combustion is rapidly halted.
  [Paper](https://science.sciencemag.org/content/370/6517/705.abstract "1.5 paper"),               [Media](https://www.altmetric.com/details/93774409/news "1.5 media")
+
+* **Global InMAP (2021)**. Development and evaluation of a new open source, high-resolution, low-resource air quality model. *In Submission*
+ [Preprint](https://doi.org/10.26434/chemrxiv.14330375.v1 "Global InMAP")
