@@ -25,4 +25,4 @@ title: Co-Authored Publications
  [Preprint](https://doi.org/10.26434/chemrxiv.14330375.v1 "Global InMAP")
 
 * **Air quality and the United States food system (2021)**. Attributing air quality-related deaths from agriculture to sources, food products, and diets, reveals that 80% of the ~16,000 food-related air quality deaths are from producing meat, dairy, and eggs. Even switching from an average diet to a flexitarian diet will reduce the deaths by 68%.
- [Paper](https://www.pnas.org/content/118/20/e2013637118 "food AQ paper")
+ [Paper](https://www.pnas.org/content/118/20/e2013637118 "food AQ paper"),               [Media](https://www.altmetric.com/details/105632668/news "food AQ media")
