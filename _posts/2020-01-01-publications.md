@@ -24,5 +24,5 @@ title: Co-Authored Publications
 * **Global InMAP (2021)**. Development and evaluation of a global, open source, high-resolution, low-resource air quality model. *In Submission.*
  [Preprint](https://doi.org/10.26434/chemrxiv.14330375.v1 "Global InMAP")
 
-* **Air quality and the United States food system (2021)**. Attributing air quality-related deaths from agriculture to sources, pollutants, agricultural commodities, food products, and diets, reveals that 80% of the ~16,000 food-related air quality deaths are from producing meat, dairy, and eggs. Interventions by consumers and producers can save lives; even switching from an average diet to a flexitarian diet will reduce the deaths by 68%.
+* **Air quality and the United States food system (2021)**. Attributing air quality-related deaths from agriculture to sources, food products, and diets, reveals that 80% of the ~16,000 food-related air quality deaths are from producing meat, dairy, and eggs. Even switching from an average diet to a flexitarian diet will reduce the deaths by 68%.
  [Paper](https://www.pnas.org/content/118/20/e2013637118 "food AQ paper")
