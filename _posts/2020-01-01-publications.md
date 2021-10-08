@@ -6,7 +6,7 @@ title: Co-Authored Publications
 * **Air quality impacts of switchgrass production (2018).** To my knowledge, the first study to quantify how farmer decisions such as where to grow crops and how to fertilize them impact human health through changes in air pollution.
 [Paper](https://www.sciencedirect.com/science/article/pii/S0961953417303471 "Switchgrass paper"),              [Data](http://sumil.me/sg/map.html "Switchgrass data"),               [Media](https://www.altmetric.com/details/29593966/news)
 
-* **Air quality impacts of United States corn production (2019).** Life cycle corn production in the United States is associated with 4,300 deaths each year from changes in air quality alone.
+* **Air quality impacts of US corn production (2019).** Life cycle corn production in the United States is associated with 4,300 deaths each year from changes in air quality alone.
  [Paper](https://depts.washington.edu/airqual/Marshall_105.pdf "Corn paper"),               [Media](https://www.altmetric.com/details/58270873/news "Corn media")
 
 * **Racial inequity and air pollution (2019).** Non-Hispanic white Americans, on average, induce more pollution exposure from their consumption than they are, on average, exposed to. The opposite is true for Hispanic and black Americans.
@@ -26,3 +26,6 @@ title: Co-Authored Publications
 
 * **Air quality and the United States food system (2021)**. Attributing air quality-related deaths from agriculture to sources, food products, and diets, reveals that 80% of the ~16,000 food-related air quality deaths are from producing meat, dairy, and eggs. Even switching from an average diet to a flexitarian diet will reduce the deaths by 68%.
  [Paper](https://www.pnas.org/content/118/20/e2013637118 "food AQ paper"),               [Media](https://www.altmetric.com/details/105632668/news "food AQ media")
+
+* **Air quality impacts of the global food system (2021)**. Around a quarter of outdoor air quality-related deaths worldwide are attributable to the global food system. Emissions are from across the supply chain, and include the majority of anthropogenic primary fine particulate matter emissions, and the vast majority of ammonia emissions.
+ [Paper](https://iopscience.iop.org/article/10.1088/1748-9326/ac065f "AQ global food system"),               [Media](https://www.altmetric.com/details/114725387/twitter "AQ global food system media")
