@@ -30,6 +30,6 @@ title: Publications
 * **Global InMAP (2022)**. Development and evaluation of a global, open source, high-resolution, low-resource air quality model.
  [Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268714 "Global InMAP"),               [Data](https://zenodo.org/record/6189451#.Yo6w2ZPMKw0 "Global InMAP data")
 
-* **Air quality and the ASEAN Power Grid (2022).** Southeast Asia expects to double electricity generation by 2040, increasing the share of coal-powered generation in the process. All scenarios considered in the ASEAN Interconnection Masterplan Study will lead to worse air quality. However, relative to business-as-usual, the High Renewable Energy Target scenario is associated with 16,000 fewer deaths each year by 2040.
+* **Air quality and the ASEAN Power Grid (2022).** Southeast Asia expects to double electricity generation by 2040, increasing the share of coal-powered generation in the process, and thereby worsening air quality. Achieving the ASEAN High Renewable Energy Target is associated with 16,000 fewer deaths each year, relative to business-as-usual, by 2040.
 [Report](https://pdf.usaid.gov/pdf_docs/PA00ZMS2.pdf "ASEAN report"),               [Fact sheet](https://pdf.usaid.gov/pdf_docs/PA00ZMRZ.pdf "ASEAN fact sheet")
 
