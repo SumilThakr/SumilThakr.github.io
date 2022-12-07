@@ -30,6 +30,8 @@ title: Publications
 * **Global InMAP (2022)**. Development and evaluation of a global, open source, high-resolution, low-resource air quality model.
  [Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268714 "Global InMAP"),               [Data](https://zenodo.org/record/6189451#.Yo6w2ZPMKw0 "Global InMAP data")
 
-* **Air quality and the ASEAN Power Grid (2022).** Southeast Asia expects to double electricity generation by 2040, increasing the share of coal-powered generation in the process, and thereby worsening air quality. Achieving the ASEAN High Renewable Energy Target is associated with 16,000 fewer deaths each year, relative to business-as-usual, by 2040.
+* **Air quality and electricity generation in Southeast Asia (2022).** Southeast Asia expects to double electricity generation by 2040, increasing the share of coal-powered generation in the process, and thereby worsening air quality. Achieving the ASEAN High Renewable Energy Target is associated with 16,000 fewer deaths each year, relative to business-as-usual, by 2040.
 [Report](https://pdf.usaid.gov/pdf_docs/PA00ZMS2.pdf "ASEAN report"),               [Fact sheet](https://pdf.usaid.gov/pdf_docs/PA00ZMRZ.pdf "ASEAN fact sheet")
 
+* **Air quality and electricity generation in India (2022)**. Poorer, coal-dependent states in eastern India are disproportionately burdened by air pollution health impacts from electricity generation. Sulfur emission controls reduce the burden by 50% throughout India, and lessen state-level inequalities. Carbon taxes and nationally integrated electricity markets reduce deaths by only ~10%, mostly in South India.
+ [Paper](https://iopscience.iop.org/article/10.1088/1748-9326/aca8bb "AQ India electricity")
