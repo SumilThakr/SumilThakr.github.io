@@ -35,3 +35,8 @@ title: Publications
 
 * **Air quality and electricity generation in India (2022)**. Poorer, coal-dependent states in eastern India are disproportionately burdened by air pollution health impacts from electricity generation. Sulfur emission controls reduce the burden by 50% throughout India, and lessen state-level inequalities. Carbon taxes and nationally integrated electricity markets reduce deaths by only ~10%, mostly in South India.
  [Paper](https://iopscience.iop.org/article/10.1088/1748-9326/aca8bb "AQ India electricity")
+
+* **Sustainability science at the meso-scale (2023)**. An emerging paradigm in sustainability science connects large-scale economic drivers of change (e.g., international trade, population dynamics) with small-scale environmental effects (e.g., crop yields, biodiversity indicators). But human decisions and the environment typically interact at the "meso-scale" (e.g., national or sub-national policies, agro-environmental management), which is often left out of the paradigm.
+[Paper](https://iopscience.iop.org/article/10.1088/1748-9326/acb503 "meso")
+
+
