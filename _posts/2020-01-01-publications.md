@@ -39,4 +39,6 @@ title: Publications
 * **Sustainability science at the meso-scale (2023)**. An emerging paradigm in sustainability science connects large-scale economic drivers of change (e.g., international trade, population dynamics) with small-scale environmental effects (e.g., crop yields, biodiversity indicators). But human decisions and the environment typically interact at the "meso-scale" (e.g., national or sub-national policies, agro-environmental management), which is often left out of the paradigm.
 [Paper](https://iopscience.iop.org/article/10.1088/1748-9326/acb503 "meso")
 
+* **GTAP-InVEST (2023)**. The integration of a computable general equilibrium model (GTAP) with a suite of ecosystem service models (InVEST) to model how the economy and the environment interact. 
+[Paper](https://www.pnas.org/doi/abs/10.1073/pnas.2220401120?af=R "GTAP InVEST")
 
