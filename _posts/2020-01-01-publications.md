@@ -42,3 +42,5 @@ title: Publications
 * **GTAP-InVEST (2023)**. The integration of a computable general equilibrium model (GTAP) with a suite of ecosystem service models (InVEST) to model how the economy and the environment interact. 
 [Paper](https://www.pnas.org/doi/abs/10.1073/pnas.2220401120?af=R "GTAP InVEST")
 
+* **Nitrogen management for people and planet (2023)**. Current nitrogen use in US Midwestern corn is net bad for society, leading to $21.3 billion annual losses. Better nitrogen management, through limiting reactive nitrogen emissions, lowering nitrogen input, and land retirement for the most unproductive and damaging corn, can turn these losses (almost) into gains.
+[Paper](https://academic.oup.com/pnasnexus/article/2/10/pgad319/7321478 "Nitrogen corn")
