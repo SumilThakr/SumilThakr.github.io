@@ -44,3 +44,6 @@ title: Publications
 
 * **Nitrogen management for people and planet (2023)**. Current nitrogen use in US Midwestern corn is net bad for society, leading to $21.3 billion annual losses. Better nitrogen management, through limiting reactive nitrogen emissions, lowering nitrogen input, and land retirement for the most unproductive and damaging corn, can turn these losses (almost) into gains.
 [Paper](https://academic.oup.com/pnasnexus/article/2/10/pgad319/7321478 "Nitrogen corn")
+
+* **Air quality and land-use decisions (2023)**. Air quality health effects of land-use decisions, though neglected, are often larger in value than the carbon storage and agricultural returns combined.
+[Paper](https://pubs.acs.org/doi/10.1021/acs.est.3c02280 "land use AQ"),            [Research brief](https://naturalcapitalproject.stanford.edu/news/make-better-land-use-decisions-we-must-consider-air-quality-too "land use AQ brief")
