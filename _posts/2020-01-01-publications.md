@@ -3,6 +3,8 @@ layout: page
 title: Publications
 ---
 
+* **Updating air quality activity guidelines (2024)**. Results from a [study](https://doi.org/10.1001/jamanetworkopen.2024.5292) suggest that the current US air quality activity guidelines (e.g., remaining indoors and avoiding exercise during high pollution episodes) are of questionable relevance as public health recommendations. We should have more targeted activity guidelines that only apply to the highest risk people, but we should not lose sight of the potential for more broadly-applied exposure-side interventions.
+ [Commentary](https://doi.org/10.1001/jamanetworkopen.2024.5259 "AQI activity guidelines")
 
 * **Air quality and vehicle electrification in India (2024)**. Increased vehicle electrification in India will worsen air quality and health if the vehicles are powered by the current (coal-dominated) electricity grid. But transitioning to a cleaner grid alongside vehicle electrification can greatly improve air quality and health.
  [Paper](https://doi.org/10.1088/1748-9326/ad1c7a "AQ India electrification")
