@@ -9,7 +9,7 @@ title: Publications
 * **Air quality and vehicle electrification in India (2024)**. Increased vehicle electrification in India will worsen air quality and health if the vehicles are powered by the current (coal-dominated) electricity grid. But transitioning to a cleaner grid alongside vehicle electrification can greatly improve air quality and health.
  [Paper](https://doi.org/10.1088/1748-9326/ad1c7a "AQ India electrification")
 
-* **Air quality and land-use decisions (2023)**. Air quality health effects of land-use decisions, though neglected, are often larger in value than the carbon storage and agricultural returns combined.
+* **Air quality and land-use decisions (2024)**. Air quality health effects of land-use decisions, though neglected, are often larger in value than the carbon storage and agricultural returns combined.
 [Paper](https://pubs.acs.org/doi/10.1021/acs.est.3c02280 "land use AQ"),            [Research brief](https://naturalcapitalproject.stanford.edu/news/make-better-land-use-decisions-we-must-consider-air-quality-too "land use AQ brief")
 
 * **Nitrogen management for people and planet (2023)**. Current nitrogen use in US Midwestern corn is net bad for society, leading to $21.3 billion annual losses. Better nitrogen management, through limiting reactive nitrogen emissions, lowering nitrogen input, and land retirement for the most unproductive and damaging corn, can turn these losses (almost) into gains.
