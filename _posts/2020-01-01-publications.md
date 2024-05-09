@@ -3,6 +3,9 @@ layout: page
 title: Publications
 ---
 
+* **Air quality health impacts of India's coal plants (2024)** A quarter of the air quality-related health impacts of India's coal-powered electricity (~43,600 deaths/year) are from units that generate just 3.5% of the total energy.
+[Paper](https://doi.org/10.1088/1748-9326/ad472a "Indian coal plants")
+
 * **Updating air quality activity guidelines (2024)**. Results from a [study](https://doi.org/10.1001/jamanetworkopen.2024.5292) suggest that the current US air quality activity guidelines (e.g., remaining indoors and avoiding exercise during high pollution episodes) are of questionable relevance as public health recommendations. We should have more targeted activity guidelines that only apply to the highest risk people, but we should not lose sight of the potential for more broadly-applied exposure-side interventions.
  [Commentary](https://doi.org/10.1001/jamanetworkopen.2024.5259 "AQI activity guidelines")
 
