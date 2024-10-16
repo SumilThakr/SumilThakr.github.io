@@ -1,9 +1,8 @@
 ---
 layout: single
+title: "Press Interviews"
 permalink: /teaching-outreach/
 ---
-
-# Press Interviews
 
 CBC News Canada, 2024. *After an epic year of wildfires, Canada's air isn't as clean as it used to be*. **[Article link](https://www.cbc.ca/news/climate/air-quality-wildfires-iqair-1.7145355)**
 
