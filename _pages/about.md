@@ -34,4 +34,4 @@ I use these tools to pursue 3 key questions:
 * How should we grow food and use land in a way that benefits humanity?
 * How can we reduce air pollution to improve health in neglected regions and from neglected sources?
 
-My research is global in scope, and I maintain ties with international collaboration networks. I am currently affiliated with the [Natural Capital Project](https://naturalcapitalproject.stanford.edu/peopletanford University), [The Earth Economy Modellers](https://natcapteems.umn.edu/) (University of Minnesota), the [Health & Equity Impacts of Climate Change Mitigation](https://heiccam.org/team/#ecrs) Team (HEICCAM), and the Nature Transition Support Programme (NTSP).
+I am currently affiliated with the [Natural Capital Project](https://naturalcapitalproject.stanford.edu/peopletanford University), [The Earth Economy Modellers](https://natcapteems.umn.edu/) (University of Minnesota), the [Health & Equity Impacts of Climate Change Mitigation](https://heiccam.org/team/#ecrs) Team (HEICCAM), and the Nature Transition Support Programme (NTSP).
