@@ -114,7 +114,7 @@ permalink: /publications/
 <details>
   <summary><strong>Air quality and electricity generation in Southeast Asia.</strong> Southeast Asia expects to double electricity generation by 2040, increasing the share of coal-powered generation in the process, and thereby worsening air quality. Achieving the ASEAN High Renewable Energy Target is associated with 16,000 fewer deaths each year, relative to business-as-usual, by 2040. </summary>
   <p style="margin-left: 20px; font-size: 0.9em;">
-    <strong>Thakrar, S.\*</strong>, Ravi, V.\*, Heath, G., Wahyono, A.D., Suryadi, B., Avery, G., Hill, J.
+    <strong>Thakrar, S.*</strong>, Ravi, V.*, Heath, G., Wahyono, A.D., Suryadi, B., Avery, G., Hill, J.
     <em>Quantifying impacts of renewable electricity deployment on air quality and human health in Southeast Asia based on AIMS III scenarios.</em>
     <span style="font-style: italic;">Golden, CO: National Renewable Energy Laboratory.</span>
     <a href="https://pdf.usaid.gov/pdf_docs/PA00ZMS2.pdf" title="ASEAN report">Report</a>,
@@ -155,7 +155,7 @@ permalink: /publications/
 <details>
   <summary><strong>Air quality and the United States food system.</strong> Attributing air quality-related deaths from agriculture to sources, food products, and diets, reveals that 80% of the ~16,000 food-related air quality deaths are from producing meat, dairy, and eggs. Even switching from an average diet to a flexitarian diet will reduce the deaths by 68%. </summary>
   <p style="margin-left: 20px; font-size: 0.9em;">
-    Domingo, N.G.G., <strong>Thakrar, S.K.\*</strong>, Balasubramanian, S.\*, Clark, M.A., Adams, P.J., Marshall, J.D., Muller, N.Z., Pandis, S.N., Polasky, S., Robinson, A.L., Tessum, C.W., Tilman, D., Tschofen, P., Hill, J.D.
+    Domingo, N.G.G., <strong>Thakrar, S.K.*</strong>, Balasubramanian, S.*, Clark, M.A., Adams, P.J., Marshall, J.D., Muller, N.Z., Pandis, S.N., Polasky, S., Robinson, A.L., Tessum, C.W., Tilman, D., Tschofen, P., Hill, J.D.
     <em>Air quality-related health damages of food.</em>
     <span style="font-style: italic;">Proceedings of the National Academy of Sciences.</span>
     <a href="https://doi.org/10.1073/pnas.2013637118" title="food AQ paper">Paper</a>,
