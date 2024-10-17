@@ -25,7 +25,7 @@ redirect_from:
       "https://orcid.org/0000-0003-2205-3333"]
     }
 </script>
-I am currently a Patience Cowie Research Fellow at the [School of GeoSciences](https://geosciences.ed.ac.uk/), University of Edinburgh. I am also affiliated with the [Natural Capital Project](https://naturalcapitalproject.stanford.edu/people) (Stanford University), [The Earth Economy Modellers](https://natcapteems.umn.edu/) (University of Minnesota), the [Health & Equity Impacts of Climate Change Mitigation](https://heiccam.org/team/#ecrs) Team (HEICCAM), and the Nature Transition Support Programme (NTSP).
+I am currently a Patience Cowie Research Fellow at the [School of GeoSciences](https://geosciences.ed.ac.uk/), University of Edinburgh.
 
 My research seeks to quantify the environmental social costs and benefits of our decisions to inform sustainable development. To this end, I develop, integrate, and apply biophysical and economic models that can simulate the environmental consequences of our decisions.
 
@@ -33,6 +33,8 @@ I use these tools to pursue 3 key questions:
 * Are our decisions putting us on a more or less sustainable trajectory?
 * How should we grow food and use land in a way that benefits humanity?
 * How can we reduce air pollution to improve health in neglected regions and from neglected sources?
+
+Previously, my postdoc was in the Department of Applied Economics (University of Minnesota), my Ph.D. was in Bioproducts & Biosystems Engineering (University of Minnesota), and my undergraduate/Masters was in Physics & Philosophy (University of Oxford). I am currently affiliated with the [Natural Capital Project](https://naturalcapitalproject.stanford.edu/people) (Stanford University), [The Earth Economy Modellers](https://natcapteems.umn.edu/) (University of Minnesota), the [Health & Equity Impacts of Climate Change Mitigation](https://heiccam.org/team/#ecrs) Team (HEICCAM), and the Nature Transition Support Programme (NTSP).
 
 Please find details on my [publications](https://www.sumil.me/publications/), [teaching & outreach](https://www.sumil.me/teaching-outreach/).
 
