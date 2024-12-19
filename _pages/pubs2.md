@@ -11,6 +11,16 @@ permalink: /publications/
 ## 2024
 
 <details>
+  <summary><strong>SEALS.</strong> Development of a global, open source, high-resolution, computationally-efficient land-use change and spatial downscaling model. </summary>
+  <p style="margin-left: 20px; font-size: 0.9em;">
+    Johnson, J. A., <strong>Thakrar, S.K.</strong>
+    <em>Projecting Global Changes in Land Use and Ecosystem Services Using SEALS (Spatial Economic Allocation Landscape Simulator)</em><br>
+    <span style="font-style: italic;">EarthArXiv.</span>
+    <a href="https://doi.org/10.1088/1748-9326/ad472a" title="SEALS preprint">Preprint</a>
+  </p>
+</details>
+
+<details>
   <summary><strong>Air quality health impacts of India's coal plants.</strong> A quarter of the air quality-related health impacts of India's coal-powered electricity (~43,600 deaths/year) are from units that generate just 3.5% of the total energy. </summary>
   <p style="margin-left: 20px; font-size: 0.9em;">
     Singh, K., Peshin, T., Sengupta, S., <strong>Thakrar, S.K.</strong>, Tessum, C.W., Hill, J.D., Azevedo, IML, Luby, S.<br>
