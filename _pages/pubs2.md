@@ -16,7 +16,7 @@ permalink: /publications/
     Johnson, J. A., <strong>Thakrar, S.K.</strong>
     <em>Projecting Global Changes in Land Use and Ecosystem Services Using SEALS (Spatial Economic Allocation Landscape Simulator)</em><br>
     <span style="font-style: italic;">EarthArXiv.</span>
-    <a href="https://eartharxiv.org/repository/view/8239/" title="SEALS preprint">Preprint</a>
+    <a href="https://doi.org/10.31223/X5GX36" title="SEALS preprint">Preprint</a>
   </p>
 </details>
 
