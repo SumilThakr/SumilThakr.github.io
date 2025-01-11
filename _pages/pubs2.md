@@ -8,6 +8,20 @@ permalink: /publications/
   <div class="wordwrap">See <a href="{{site.author.googlescholar}}">my Google Scholar profile</a> for further details.</div>
 {% endif %}
 
+## 2025
+
+<details>
+  <summary><strong>Air quality impacts of US seafood.</strong> Seafood is a very low air quality impact source of dietary protein. </summary>
+  <p style="margin-left: 20px; font-size: 0.9em;">
+    Gittlin, M.L., <strong>Thakrar, S.K.</strong>, Faubion, M.G., Hill, J.D.
+    <em>Air quality-related human health damages of wild capture seafood production in the United States</em><br>
+    <span style="font-style: italic;">Environmental Research: Food Systems.</span>
+    <a href="https://iopscience.iop.org/article/10.1088/2976-601X/ad93dd" title="AQ Fisheries">Paper</a>
+  </p>
+</details>
+
+
+
 ## 2024
 
 <details>
