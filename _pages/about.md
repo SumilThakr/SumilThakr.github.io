@@ -27,7 +27,7 @@ redirect_from:
 </script>
 I am currently a Patience Cowie Research Fellow at the [School of GeoSciences](https://geosciences.ed.ac.uk/), University of Edinburgh.
 
-My research seeks to quantify the environmental social costs and benefits of our decisions to inform sustainable development. To this end, I develop, integrate, and apply biophysical and economic models that can simulate the environmental consequences of our decisions.
+My research seeks to quantify the environmental social costs and benefits of our decisions to inform sustainable development. To this end, I develop, integrate, and apply models that can simulate the environmental consequences of our decisions.
 
 I use these tools to pursue 3 key questions:
 * Are our decisions putting us on a more or less sustainable trajectory?
