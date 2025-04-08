@@ -11,6 +11,16 @@ permalink: /publications/
 ## 2025
 
 <details>
+  <summary><strong>The future of UK indoor air.</strong> A review of what we know (and don't know!) about the future of indoor air quality in wealthy, heating-dominated countries (UK, US, Northern EU), including under Net Zero policies. </summary>
+  <p style="margin-left: 20px; font-size: 0.9em;">
+    Booker, D., Petrou, G., Chatzidiakou, L.,Das, D., Farooq, F., Ferguson, L., Jutila, O.E.I., Milczewska, K., Modlich, M., Moreno Rangel, A., <strong> Thakrar, S.K. </strong>, Yeoman, A.M., Davies, Mead, M.I., Miller, M.R., Wild, O., Shi, Z., Mavrogianni, A., Doherty, R.M.
+    <em>Ten questions concerning the future of residential indoor air quality and its environmental justice implications</em><br>
+    <span style="font-style: italic;">Building and Environment.</span>
+    <a href="https://doi.org/10.1016/j.buildenv.2025.112957" title="10 questions on IAQ">Paper</a>
+  </p>
+</details>
+
+<details>
   <summary><strong>Air quality impacts of US seafood.</strong> Seafood is a very low air quality impact source of dietary protein. </summary>
   <p style="margin-left: 20px; font-size: 0.9em;">
     Gittlin, M.L., <strong>Thakrar, S.K.</strong>, Faubion, M.G., Hill, J.D.
@@ -19,8 +29,6 @@ permalink: /publications/
     <a href="https://iopscience.iop.org/article/10.1088/2976-601X/ad93dd" title="AQ Fisheries">Paper</a>
   </p>
 </details>
-
-
 
 ## 2024
 
@@ -231,7 +239,7 @@ permalink: /publications/
 ## 2019
 
 <details>
-  <summary><strong>Racial inequity and air pollution.</strong> Non-Hispanic white Americans, on average, induce more pollution exposure from their consumption than they are, on average, exposed to. The opposite is true for Hispanic and black Americans.</summary>
+  <summary><strong>Racial inequity and air pollution.</strong> Black and Hispanic Americans, on average, induce less pollution exposure from their consumption than they are, on average, exposed to.</summary>
   <p style="margin-left: 20px; font-size: 0.9em;">
   C.W. Tessum, J.S. Apte, A.L. Goodkind, N.Z. Muller K.A. Mullins, D.A. Paolella, S. Polasky, N. P. Springer, <strong>Sumil K. Thakrar</strong>, J.D. Marshall, J.D. Hill.
     <em>Inequity in consumption of goods and services adds to racial–ethnic disparities in air pollution exposure.</em>
