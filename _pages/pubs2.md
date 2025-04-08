@@ -11,7 +11,7 @@ permalink: /publications/
 ## 2025
 
 <details>
-  <summary><strong>The future of UK indoor air.</strong> A review of what we know (and don't know!) about the future of indoor air quality in wealthy, heating-dominated countries (UK, US, Northern EU), including under Net Zero policies. </summary>
+  <summary><strong>The future of UK indoor air.</strong> A review of what we know (and don't know!) about the future of indoor air quality in wealthy, heating-dominated countries (e.g., the United Kingdom), including under Net Zero policies. </summary>
   <p style="margin-left: 20px; font-size: 0.9em;">
     Booker, D., Petrou, G., Chatzidiakou, L.,Das, D., Farooq, F., Ferguson, L., Jutila, O.E.I., Milczewska, K., Modlich, M., Moreno Rangel, A., <strong> Thakrar, S.K. </strong>, Yeoman, A.M., Davies, Mead, M.I., Miller, M.R., Wild, O., Shi, Z., Mavrogianni, A., Doherty, R.M.
     <em>Ten questions concerning the future of residential indoor air quality and its environmental justice implications</em><br>
